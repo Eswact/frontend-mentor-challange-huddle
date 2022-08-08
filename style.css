@@ -160,7 +160,7 @@ left: 5%;
 #but {
 position: absolute;
 top: 36px;
-right: 5%;
+right: 6.5%;
 height: 40px;
 width: 140px;
 font-size: large;
@@ -369,6 +369,11 @@ height: 40px;
 margin-right: 20px;
 }
 
+.mar2{
+    width: 40px;
+    height: 40px;
+}
+
 .betw {
 margin-right: 6%;
 display: flex;
@@ -429,7 +434,7 @@ background-repeat: repeat-x;
 .fix{
     position: fixed;
     top: 0;
-    height: 150px;
+    height: 100px;
     background-color: #00262F;
 }
 
@@ -463,12 +468,12 @@ text-align: center;
 }
 
 h1 {
-margin: 30% 10% 10% 10%;
+margin: 30% 5% 10% 5%;
 font-size: 44px;
 }
 
 #p1 {
-margin: 5% 5% 5% 5%;
+margin: 5%;
 line-height: 34px;
 font-size: 24px;
 }
@@ -480,7 +485,7 @@ margin: 20% auto;
 }
 
 #but2 {
-margin: 10%;
+margin: 3%;
 }
 
 #ik2 {
@@ -584,12 +589,6 @@ margin: 2% auto;
 
 #smed {
 margin: 10% auto;
-}
-
-.mar {
-width: 40px;
-height: 40px;
-margin-right: 20px;
 }
 
 .betw {
